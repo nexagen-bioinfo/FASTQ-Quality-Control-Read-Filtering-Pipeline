@@ -1,4 +1,4 @@
-readme_content = """# NEXAGEN - FastQ Quality Control & Trimming Tool
+# NEXAGEN - FastQ Quality Control & Trimming Tool
 
 NEXAGEN FastQ Quality Control Software, NGS (Next-Generation Sequencing) məlumatlarının təmizlənməsi, filtrlənməsi və keyfiyyət analizi üçün hazırlanmış yüngül və interaktiv Python tətbiqidir.
 
